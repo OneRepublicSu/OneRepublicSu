@@ -11,10 +11,6 @@
 - ⚡ Fun fact: ...
 
 
-
-
-
-
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
@@ -25,4 +21,8 @@ Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░
 
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&layout=compact)](https://github.com/OneRepublicSu/github-readme-stats)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&layout=compact)](https://github.com/OneRepublicSu/github-readme-stats) |  ![](https://...Ocean.png)
+
+
