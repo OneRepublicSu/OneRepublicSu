@@ -1,8 +1,11 @@
 
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ```text
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/这是一行测试文本)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
