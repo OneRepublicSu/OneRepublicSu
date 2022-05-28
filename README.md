@@ -25,4 +25,3 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&layout=compact)](https://github.com/OneRepublicSu/github-readme-stats) |  [![Top Langs](https://activity-graph.herokuapp.com/graph?username=OneRepublicSu&theme=xcode)](https://github.com/OneRepublicSu/github-readme-stats)
 
-
