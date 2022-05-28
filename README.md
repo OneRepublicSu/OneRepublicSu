@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/温柔仅供参考;一切请以生气时间为准)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?温柔仅供参考; 一切请以生气时间为准)](https://git.io/typing-svg)
 
 ```text
 
