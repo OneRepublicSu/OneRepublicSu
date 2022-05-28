@@ -17,7 +17,7 @@
             </td>
             <td>
                 <!--右侧内容-->
-                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&layout=compact)](https://github.com/OneRepublicSu/github-readme-stats)
+                -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&layout=compact)](https://github.com/OneRepublicSu/github-readme-stats)
             </td>
         </tr>
     </table>
