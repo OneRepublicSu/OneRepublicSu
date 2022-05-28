@@ -1,19 +1,18 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/温柔仅供参考;一切请以生气时间为准)](https://git.io/typing-svg)
 
 ```text
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 待业充电学习中的底层软件工程摆烂女孩
+- 🌱 学习路径:HTML+css/JavaScript/Ajax/git/node.js/vue/wechat-app
+- 👯 喜欢好玩的东西又菜又爱玩
+- 🤔 :(其实第二条提到的语言大部分都不会
+- 💬 看到我请让我赶紧滚去学习
+- 📫 邮箱:https://onerepublicsu.top/
+- 😄 Pronouns: susu
+- ⚡ Fun fact: :)绿豆跳楼会变成红豆哦
 ```
 
 
