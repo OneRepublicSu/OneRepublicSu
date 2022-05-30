@@ -5,14 +5,15 @@
 
 ```text
 
-- 🔭 待业充电学习中的底层软件工程摆烂女孩
-- 🌱 学习路径:HTML+css/JavaScript/Ajax/git/node.js/vue/wechat-app
-- 👯 喜欢好玩的东西又菜又爱玩
-- 🤔 :(其实第二条提到的语言大部分都不会
-- 💬 看到我请让我赶紧滚去学习
-- 📫 site:https://onerepublicsu.top/
-- 😄 Pronouns: susu
-- ⚡ Fun fact: :)绿豆跳楼会变成红豆哦
+💬 推荐使用暗黑模式访问此界面
+🔭 待业充电学习中的底层软件工程摆烂女孩
+🌱 学习路径:HTML+css/JavaScript/Ajax/git/node.js/vue/wechat-app
+👯 喜欢好玩的东西又菜又爱玩
+🤔 :(其实第二条提到的语言大部分都不会
+💬 看到我请让我赶紧滚去学习
+📫 site:https://onerepublicsu.top/
+😄 Pronouns: susu
+⚡ Fun fact: :)绿豆跳楼会变成红豆哦
 ```
 
 
