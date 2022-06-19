@@ -5,7 +5,7 @@
 
 ```text
 
-💬 推荐使用暗黑模式访问此界面
+💬 是个垃圾
 🔭 待业充电学习中的底层软件工程摆烂女孩
 🌱 学习路径:HTML+css/JavaScript/Ajax/git/node.js/vue/wechat-app
 👯 喜欢好玩的东西又菜又爱玩
