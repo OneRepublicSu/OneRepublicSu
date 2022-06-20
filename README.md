@@ -1,9 +1,6 @@
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=温柔仅供参考,一切请以生气时间为准ovo&color=e0c6cb)](https://git.io/typing-svg)
-
-```text
+```
 
 💬 是个垃圾
 🔭 待业充电学习中的底层软件工程摆烂女孩
