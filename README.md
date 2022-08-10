@@ -15,5 +15,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&show_icons=true&count_private=true&theme=dark)](https://github.com/OneRepublicSu/github-readme-stats) |  [![Top Langs](https://activity-graph.herokuapp.com/graph?username=OneRepublicSu&&theme=one-dark)](https://github.com/OneRepublicSu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&show_icons=true&count_private=true&theme=dark)](https://github.com/OneRepublicSu/github-readme-stats) |  [![Top Langs](https://activity-graph.herokuapp.com/graph?username=OneRepublicSu&&theme=coral)](https://github.com/OneRepublicSu/github-readme-stats)
 :-------------------------:|:-------------------------:
