@@ -13,7 +13,7 @@
 ⚡ Fun fact: :)绿豆跳楼会变成红豆哦
 ```
 
-[![MasterHead](https://sm.ms/image/QegU9LE3AWPHGfb)](https://github.com/OneRepublicSu/github-readme-stats)
+[![MasterHead](https://sm.ms/image/QegU9LE3AWPHGfb.jpg)](https://github.com/OneRepublicSu/github-readme-stats)
 
 
 
