@@ -14,5 +14,5 @@
 ```
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&show_icons=true&count_private=true&theme=dark)](https://github.com/OneRepublicSu/github-readme-stats) |  [![Top Langs](https://activity-graph.herokuapp.com/graph?username=OneRepublicSu&&theme=theme=xcode&bg_color=0a0c10&color=ffffff&line=ffffff&point=ffffff)](https://github.com/OneRepublicSu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&show_icons=true&count_private=true&theme=dark)](https://github.com/OneRepublicSu/github-readme-stats) | <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 :-------------------------:|:-------------------------:
