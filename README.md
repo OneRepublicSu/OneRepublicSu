@@ -13,6 +13,5 @@
 ⚡ Fun fact: :)绿豆跳楼会变成红豆哦
 ```
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&show_icons=true&count_private=true&theme=dark)](https://github.com/OneRepublicSu/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) | [![OneRepublicSu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OneRepublicSu&theme=xcode)](https://github.com/OneRepublicSu/github-readme-activity-graph)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) | [![OneRepublicSu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OneRepublicSu&theme=xcode)](https://github.com/OneRepublicSu/github-readme-activity-graph)
 :-------------------------:|:-------------------------:
