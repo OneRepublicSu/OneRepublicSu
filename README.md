@@ -14,5 +14,5 @@
 ```
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&show_icons=true&count_private=true&theme=dark)](https://github.com/OneRepublicSu/github-readme-stats) | [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OneRepublicSu&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneRepublicSu&show_icons=true&count_private=true&theme=dark)](https://github.com/OneRepublicSu/github-readme-stats) | [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OneRepublicSu&theme=xcode)](https://github.com/OneRepublicSu/github-readme-activity-graph)
 :-------------------------:|:-------------------------:
