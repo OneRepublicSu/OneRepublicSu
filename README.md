@@ -13,4 +13,6 @@
 ⚡ Fun fact: :)绿豆跳楼会变成红豆哦
 ```
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c8e08307-c9e5-432a-a4f1-33dada62d225/deploy-status)](https://app.netlify.com/sites/boisterous-entremet-597d36/deploys)
+
  
